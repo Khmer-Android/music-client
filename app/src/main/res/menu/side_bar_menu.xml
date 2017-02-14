@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--android:icon="@drawable/home"-->
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/site_bar_home"
+            android:title="@string/site_bar_home" />
+        <item
+            android:id="@+id/favorites"
+            android:icon="@drawable/site_bar_favorites"
+            android:title="@string/site_bar_favorite" />
+
+
+        <item
+            android:id="@+id/downloaded"
+            android:icon="@drawable/site_bar_download"
+            android:title="@string/site_bar_download" />
+
+
+        <item
+            android:id="@+id/playlists"
+            android:icon="@drawable/playlist_icon_18dp"
+            android:title="@string/site_bar_play_lists" />
+
+    </group>
+</menu>
