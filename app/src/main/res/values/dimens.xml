@@ -7,8 +7,6 @@
     <dimen name="text_margin">16dp</dimen>
 
 
-
-
     <!-- Margins -->
     <dimen name="navigation_drawer_weidth">220dp</dimen>
     <dimen name="layout_margin1dp">1dp</dimen>
